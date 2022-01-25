@@ -4,7 +4,7 @@
 
 # Code
 
-Simple project representing the State design pattern.
+Simple project representing the State design pattern. For this one i made a example which represents states for when you make a Order online.
 
 # Definition
 
